@@ -45,12 +45,19 @@ CSV → Python (cleaning) → S3 → BigQuery → SQL → Power BI
 
 AWS S3 (Data Storage)
 
+<img width="2880" height="1800" alt="S3" src="https://github.com/user-attachments/assets/db106845-fa5f-4e4f-84e6-fc25ce738d78" />
 
 
 SQL Analysis
 
-(Add image)
+<img width="2876" height="1615" alt="BigQuery_1" src="https://github.com/user-attachments/assets/11b8b071-e810-47c3-ad85-daa9610e5ac4" />
+
 
 Dashboard
 
-(Add image)
+<img width="2724" height="1501" alt="Dashboard" src="https://github.com/user-attachments/assets/a42ea57b-8583-4bc4-81fb-9faf85f47789" />
+
+
+🔹 Live Dashboard 
+
+https://app.powerbi.com/view?r=eyJrIjoiMWVlNzdjZWQtNjdhYi00OGI5LTk4OGItZmIyYzIyYTA3ZTc5IiwidCI6ImQ0NjZlNTA5LWQ4YWMtNGZmZC1iMTAxLWViN2QzYmQ1MzlhYSJ9
